@@ -22,7 +22,7 @@ namespace Proyecto_Final
             Controlador_Forms(new Resumen());
         }
 
-        //Control de forms
+        //Control de forms del inicio
         public void mover_Ventana(MouseEventArgs e)
         {
             if (e.Button != MouseButtons.Left)
