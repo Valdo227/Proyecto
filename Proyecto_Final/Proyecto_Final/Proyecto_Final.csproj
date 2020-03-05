@@ -109,9 +109,6 @@
     <Compile Include="Ahorros.Designer.cs">
       <DependentUpon>Ahorros.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ajustes.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Aprender.cs">
       <SubType>Form</SubType>
     </Compile>
